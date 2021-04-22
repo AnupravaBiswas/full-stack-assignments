@@ -1,0 +1,13 @@
+Assignment 2
+
+Table of celebrities
+at least 3 columns and at least 2 rows
+    image
+    name
+    age
+On click (hyperlink) of name, wikipedia page of the celebrity has to be opened. --> one link should be opened in new page and other in same page.
+On click of image, image has to opened in new tab/window always.
+
+wikipedia page
+In sync with Assignment 1 and it should have listed the achievements/awards .
+Note:- hyperlinks in wikipedia page is not mandatory.
